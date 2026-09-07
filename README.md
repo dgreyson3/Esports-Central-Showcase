@@ -128,6 +128,7 @@ Esports Central is **complete and no longer in active development**.
 It was built in November 2025 to solve a specific problem for my esports team: making lab-recorded scrim VODs accessible outside the computers that captured them.
 
 If I rebuilt it today, I would add stronger private object access, resumable uploads, upload reconciliation, stricter team authorization, automated tests, and service health monitoring.
+I would also like to one day merge esports central and GTracker to be one suite for esports teams to use. 
 
 ---
 
